@@ -1,0 +1,11 @@
+## Title: |cFEDC72PCarry|r |cFB451CCompanion|r
+## Description: Private Addon - Carry Companion
+## Author: |cff0096DubskySteam|r
+## Version: 1.1
+## APIVersion: 100032
+## SavedVariables: CarryCompanionSavedVariables
+## DependsOn: LibAddonMenu-2.0
+
+carrycompanio.lua
+carrycompaniomenu.lua
+carrycompanionGUI.xml
